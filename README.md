@@ -1,4 +1,4 @@
-[![build status](https://secure.travis-ci.org/nvanexan/node-client-sessions.png)](http://travis-ci.org/nvanexan/node-client-sessions)
+[![Build Status](https://travis-ci.com/nvanexan/node-client-sessions.svg?branch=master)](https://travis-ci.com/nvanexan/node-client-sessions)
 
 ## About
 
