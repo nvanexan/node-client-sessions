@@ -1,7 +1,7 @@
 {
   "name": "client-sessions-samesite",
   "version": "0.8.0",
-  "description": "A fork of the 'client-sessions' package, with support for samesite=none cookies. Allows for secure sessions stored in cookies.",
+  "description": "secure sessions stored in cookies.",
   "main": "lib/client-sessions",
   "repository": {
     "type": "git",
@@ -16,8 +16,8 @@
     "vows": "^0.8.3"
   },
   "author": {
-    "name": "Nick Van Exan",
-    "email": "nick@vanexan.ca"
+    "name": "Ben Adida",
+    "email": "ben@adida.net"
   },
   "scripts": {
     "test": "vows --spec"
@@ -26,5 +26,5 @@
     "node": ">= 0.8.0"
   },
   "license": "MPL-2.0",
-  "bugs": "https://github.com/nvanexan/node-client-sessions/issues"
+  "bugs": "https://github.com/mozilla/node-client-sessions/issues"
 }
